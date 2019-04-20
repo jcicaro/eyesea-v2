@@ -6,7 +6,7 @@
 
         <div class="col-md-12 pb-3">
 
-            <?php get_template_part('template_parts/content', 'post'); ?>
+            <?php get_template_part('template_parts/content', 'page'); ?>
             
         </div>
 
